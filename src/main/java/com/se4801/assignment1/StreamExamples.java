@@ -71,3 +71,6 @@ class Order {
         return total;
     }
 }
+
+//Streams allow us to process collections declaratively by chaining operations
+// such as filtering, mapping, and collecting, replacing traditional loops with more concise and readable code.
